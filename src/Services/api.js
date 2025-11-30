@@ -1,4 +1,4 @@
-const API_KEY = "d9a3ebe4bbe7c744260a3bee793f89ff";
+const API_KEY = "Use Your API KEY HERE";
 const BASE_URL = "https://api.themoviedb.org/3"; 
 
 // Get Popular Movies
